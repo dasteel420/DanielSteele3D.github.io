@@ -1,1 +1,5 @@
-First test to create my website
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
