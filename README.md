@@ -103,7 +103,7 @@ Indented code
 
 ## Images
 
-![farmerJeb](https://github.com/dasteel420/markdownhere/raw/master/src/common/images/farmerJeb.png)
+![farmerJeb](farmerJeb.png)
 
 ## The End!
  
