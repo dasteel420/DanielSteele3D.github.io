@@ -103,7 +103,7 @@ Indented code
 
 ## Images
 
-![farmerJeb](https://dasteel420.github.com/images/farmerJeb.png)
+![farmerJeb](https://octodex.github.com/images/farmerJeb.png)
 
 ## The End!
  
