@@ -1,4 +1,2 @@
-title: myproject
-url: ""
 theme: jeykll-theme-hacker
 exclude: [vendor]
