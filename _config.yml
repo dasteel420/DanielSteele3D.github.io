@@ -1,1 +1,5 @@
+title: myproject
+url: ""
+markdown: kramdown
 theme: jeykll-theme-hacker
+exclude: [vendor]
