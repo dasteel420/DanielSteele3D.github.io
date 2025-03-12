@@ -1,98 +1,19 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-
-## Horizontal Rules
-
 ----
 
 
 ## Emphasis
 
-**This is bold text**
+Hello, my name is Daniel Steele. I have a bachelors of science in Game Art and Design, I specialise in 3D characters; but over the years I've also grown an equal love for the rigging and animation pipeline as well. One this website you can find art peices i've worked on over the years as well as demonstrations of my auto rigging tools. My primary tool of the trade is Autodesk Maya, but I have a full understanding of the game art pipeline from zbrush, to unwrapping, to texturing. I also have a full understanding of the maya to unreal/unity rigging pipeline.
 
-__This is bold text__
+My program capabilities include, but are not limited to
+ -Autodesk Maya
+ -3DS Max
+ -Adobe Photoshop
+ -Substance Painter/designer
+ -marvelous designer
+ -3Dcoat
 
-*This is italic text*
-
-_This is italic text_
-
---Strikethrough--
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to eachother...
-> > > ...or with spaces between arrows.
-
-
- ## Lists
-
-Unordered
-
-+ Create a list by starting a line with '+','-', or '+'
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    + Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Loren ipsum dolor sit amet
-2. Consecutur adipiscing elit
-3. Integer molestie loren at nassa
-
-## Code
-
-Inline 'code'
-
-Indented code
-
-  // Some comments
-  line 1 of code
-  line 2 of code
-  line 3 of code
-
-
-  Block code "fences"
-
-  '''
-  Sample text here...
-  '''
-
-  Syntax highlighting
-
-  ''' js
-  var foo = function(bar)  {
-    return bar++;
-  };
-
-  console.log(foo(5));
-  '''
-
-  ## Tables
-
-  | Option | Description |
-  | ------ | ----------- |
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
-
-  Right aligned columns
-
-  | Option | Description |
-  | ------: | -----------:|
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
+----
 
 
   ## Links
