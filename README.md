@@ -18,13 +18,8 @@ Hello, my name is Daniel Steele. I am an artist with a deep love for the 3D proc
   + [Auto Rigging Demonstrations]()
   + [Social Media/Email]()
 
-[link text](https://dasteel420.github.io/DanielSteele3D.github.io/)
-
-[link with title](https://dasteel420.github.io/DanielSteele3D.github.io/ "title text!")
-
 ## Images
 
 ![farmerJeb](farmerJeb.png)
 
-## The End!
  
