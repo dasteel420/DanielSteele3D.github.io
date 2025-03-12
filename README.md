@@ -18,6 +18,8 @@ Hello, my name is Daniel Steele. I am an artist with a deep love for the 3D proc
   + [Auto Rigging Demonstrations]()
   + [Social Media/Email]()
 
+----
+
 ## Images
 
 ![farmerJeb](farmerJeb.png)
