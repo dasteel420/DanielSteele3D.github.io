@@ -8,14 +8,6 @@ Hello, my name is Daniel Steele. I am an artist with a deep love for the 3D proc
   + Substance Painter/designer
   + marvelous designer
   + 3Dcoat
-+ Create a list by starting a line with '+','-', or '+'
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    + Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
 ----
 
 
