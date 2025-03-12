@@ -17,6 +17,8 @@ Hello, my name is Daniel Steele. I am an artist with a deep love for the 3D proc
 
 [link with title](https://dasteel420.github.io/DanielSteele3D.github.io/ "title text!")
 
+[My Art]()
+
 ## Images
 
 ![farmerJeb](farmerJeb.png)
